@@ -196,7 +196,7 @@ while True:
    
     hrs = float(time.strftime("%I")) + float(time.strftime("%M"))/60
     min = float(time.strftime("%M"))
-    sec = float(time.strftime("%s"))
+    sec = float(time.strftime("%S"))
 
     clock_body(pen, hrs, min, sec)
     
