@@ -1,12 +1,7 @@
 """
 COMPUTER GRAPHICS PROJECT.
 
-Problem statement is to design an Analog Clock using graphics.
-
-Team members:
-    Marmik Sharma 
-    Vivek Gusain 
-    Mayank Singh 
+Problem statement is to design an Analog Clock using graphics. 
 """
 
 import turtle
